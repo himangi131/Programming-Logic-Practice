@@ -1,30 +1,27 @@
 # Programming Logic Practice
 
-This repository contains my daily practice programs to improve my programming logic and problem-solving skills using Java.
+This repository contains my daily programming practice in Java.
 
-## Learning Path
+The main goal of this repository is to strengthen my programming logic, problem-solving skills, and understanding of fundamental programming concepts.
 
-I am practicing problems from basic to intermediate level, focusing on:
+## Topics Covered
 
-- Basic programming concepts
-- Loops and conditions
-- Number-based problems
-- Functions and methods
-- Arrays and strings
-- Problem-solving and logical thinking
+- Basic Programming
+- Conditional Statements
+- Loops
+- Functions / Methods
+- Number-based Problems
+- Pattern Problems
+- Arrays
+- Strings
+- Basic Data Structures and Algorithms
 
-## Practice Problems
+## Practice Approach
 
-| Problem | Topic |
-|--------|-------|
-| Factorial | Loops / Functions |
-| Trailing Zeroes | Number Logic |
+I am solving problems progressively from basic to intermediate level and maintaining my solutions here as part of my daily programming practice.
 
 ## Goal
 
-To build strong programming fundamentals and gradually move towards Data Structures and Algorithms (DSA).
+To build strong programming fundamentals and develop the logical thinking required for solving Data Structures and Algorithms (DSA) problems.
 
----
-
-**Language:** Java  
-**Practice:** Daily problem solving
+**Language:** Java
