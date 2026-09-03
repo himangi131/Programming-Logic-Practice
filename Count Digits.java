@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class counter{
+Public class counter{
 static int countDigits(int n){
 int count=0;
 while(n>0){
